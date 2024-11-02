@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eSobeck13
+- 👋 Hi, I’m @eSobeck7
 - 👀 I’m interested in robotics and coding
 - 🌱 I’m currently learning computer science
 
